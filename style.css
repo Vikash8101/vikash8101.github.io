@@ -267,3 +267,144 @@ section {
 .btn-container {
   gap: 1rem;
 }
+
+/* About Section */
+
+#about {
+  position: relative;
+}
+
+.title2 {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.about-containers {
+  gap: 2rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+.about-details-container {
+  justify-content: center;
+  flex-direction: column;
+}
+
+.about-containers,
+.about-details-container {
+  display: flex;
+}
+
+.about-pic {
+  display: flex;
+  height: 450px;
+  margin: auto 0;
+}
+
+.about-pic,
+img {
+  border-radius: 2rem;
+}
+
+.arrow {
+  position: absolute;
+  right: -5rem;
+  bottom: 2.5rem;
+  cursor: pointer !important;
+}
+
+.detail-container {
+  padding: 1.5rem;
+  flex: 1;
+  background: white;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: center;
+}
+
+.section-container {
+  gap: 4rem;
+  height: 80%;
+}
+
+.detail-heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 0.5rem;
+  border-bottom: 0.1rem solid;
+  border-bottom-color: rgb(163, 163, 163);
+  padding-bottom: 0.25rem;
+}
+
+.education {
+  padding: 1.5rem;
+  background: white;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: center;
+  width: 60%;
+}
+
+.experience {
+  padding: 1.5rem;
+  background: white;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: justify;
+  width: 40%;
+}
+
+.college {
+  border-bottom: 0.1rem solid;
+  border-bottom-color: rgb(163, 163, 163);
+  padding-bottom: 0.5rem;
+}
+
+.school {
+  padding-top: 1rem;
+}
+
+.institute {
+  margin-left: 16px;
+}
+
+.education-details {
+  padding-top: 1rem;
+}
+
+.education-detail {
+  text-align: left;
+  margin: auto 1rem;
+}
+
+.education-detail-heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.education-detail-details1 {
+  position: relative;
+}
+
+.down-right-symbol {
+  position: absolute;
+  top: -13px;
+  left: 0px;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.education-detail-details2 {
+  padding-left: 1.2rem;
+  font-weight: 400;
+}
+
+.text-container p {
+  padding-top: 1rem;
+}
