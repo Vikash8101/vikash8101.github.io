@@ -185,4 +185,35 @@
   .education-detail-details2 p {
     font-size: 0.8rem;
   }
+  .text-container p {
+    font-size: 0.8rem;
+}
+
+.article-container-article h3 {
+    font-size: 1rem;
+}
+
+.article-container-article p {
+    font-size: 0.75rem;
+}
+
+.article-container-h3 h3 {
+    font-size: 1rem;
+}
+
+.article-container-h3 p {
+    font-size: 0.75rem;
+}
+
+.article-container-h3 a {
+    font-size: 0.9rem;
+}
+
+.article-container-p {
+    flex-direction: column;
+}
+
+.footer-copyright {
+    font-size: 0.75rem;
+}
 }
