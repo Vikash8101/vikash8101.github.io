@@ -4,8 +4,8 @@ Welcome to my Personal Portfolio Site! This website serves as an online showcase
 It provides an overview of my skills, projects, education, and experience in the field of Web Development.
 
 # Live Demo
+https://vikashpathak.tech/
 
-https://www.nikhilyadav.tech
 
 # Features
 
