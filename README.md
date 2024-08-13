@@ -16,4 +16,6 @@ Resume: Download my resume to learn more about me.
 
 # Technologies Used
 
-HTML CSS Javascript
+`HTML`
+`CSS`
+`Javascript`
