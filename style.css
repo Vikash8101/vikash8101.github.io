@@ -510,3 +510,12 @@ article {
   flex-direction: row;
   justify-content: space-around;
 }
+
+/* Contact Section */
+
+#contact {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 70vh;
+}
