@@ -542,3 +542,7 @@ article {
 .contact-info-container p {
   font-size: larger;
 }
+
+.contact-icon {
+  cursor: default;
+}
